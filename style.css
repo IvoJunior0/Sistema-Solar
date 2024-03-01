@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Undertale';
+    src: url('undertale-font-lowercase-f.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+}
+
+body {
+    background-image: url("/imagens/espaco-bg.jpg");
+    background-position: center;
+
+}
+
+section {
+}
+
+.figura {
+    margin-top: 7%;
+}
+
+
+.title {
+    font-family: 'Undertale';
+    color: white;
+}
