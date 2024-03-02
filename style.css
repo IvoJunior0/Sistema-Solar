@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Joysitx';
-    src: url('/fonts/joystix\ monospace.otf') format('truetype');
+    src: url('/fonts/joystix\ monospace.otf/') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Undertale';
-    src: url('/fonts/undertale-font-lowercase-f.ttf') format('truetype');
+    src: url('/fonts/undertale-font-lowercase-f.ttf/') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -20,7 +20,7 @@
 }
 
 body {
-    background-image: url("/imagens/espaco-bg.jpg");
+    background-image: url("/imagens/espaco-bg.jpg/");
     background-position: center;
 
 }
