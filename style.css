@@ -20,7 +20,7 @@
 }
 
 body {
-    background-image: url("/imagens/espaco-bg.jpg");
+    background-image: url("./imagens/espaco-bg.jpg/");
     background-position: center;
 
 }
