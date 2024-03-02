@@ -8,17 +8,22 @@
     <script src="https://kit.fontawesome.com/4bb4dfed16.js" crossorigin="anonymous"></script>
     <title>🪐 Sistema Solar</title>
 </head>
-<body>
+<body> 
     <header>
         <h1 class="title">🪐✨ SISTEMA SOLAR ✨🪐</h1>
     </header>
     <section>
         <figure>
-            <img src="imagens/sistema-solar.png" usemap="#sis-solar" class="figura">
+            <img src="imagens/planetas.png" usemap="#sis-solar" class="figura">
         </figure>
         <map name="sis-solar">
-            <area shape="circle" coords="255,232,73" href="sol.html" alt="Sol" title="Sol" target="_blank">
+            <area shape="circle" coords="239,218,48" href="corpos-celestes/sol.html" alt="Sol" title="Sol" target="alvo">
         </map>
+        <div>
+            <h2 id="texto-inf" class="texto">Informações sobre os astros:</h2>
+            <iframe src="" frameborder="0" name="alvo" class="iframe"></iframe>
+        </div>
     </section>
+    <script src="index.js"></script>
 </body>
 </html>
