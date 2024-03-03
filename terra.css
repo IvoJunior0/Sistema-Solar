@@ -10,14 +10,14 @@
 
 @font-face {
     font-family: 'Joysitx';
-    src: url('/corpos-celestes/fontes/joystix-monospace.otf') format('opentype');
+    src: url('joystix-monospace.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Undertale';
-    src: url('/corpos-celestes/fontes/undertale-font-lowercase-f.ttf') format('truetype');
+    src: url('undertale-font-lowercase-f.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -28,7 +28,7 @@
     justify-content: center;
 }
 
-.marte{
+.terra{
     width: 50%;
     animation: fadein-movimento 0.9s;
 }
