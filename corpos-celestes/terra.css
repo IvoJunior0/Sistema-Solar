@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: 'Joysitx';
-    src: url('/corpos-celestes/fontes/joystix-monospace.otf') format('truetype');
+    src: url('/corpos-celestes/fontes/joystix-monospace.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
